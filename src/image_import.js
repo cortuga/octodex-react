@@ -1,18 +1,27 @@
 import React, { Component } from "react";
-import images from ".src\components\assets";
+import octocat1 from ".srcassetsadventure-cat.png";
+// import images from "";
+// import images from "";
+// import images from "";
+// import images from "";
+// import images from "";
+// import images from "";
+// import images from "";
 
 //import images
-import 
+// import
 
 class App extends Component {
   render() {
     return (
       //set images i guess?
-      <nav>
+      <section>
         <li />
-      </nav>
+        <img src={octocat1} />
+      </section>
     );
   }
 }
+import src from "*.jpeg";
 
 export default image_import;

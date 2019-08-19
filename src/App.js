@@ -6,7 +6,7 @@ class App extends Component {
       //build out html
 
       <main>
-        main
+        <h1>Mock-Octodex </h1>
         <nav>
           nav
           <ul>ul</ul>
