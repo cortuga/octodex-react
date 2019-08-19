@@ -1,10 +1,19 @@
-import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import React, { Component } from "react";
 
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return (
+      //build out html
+
+      <main>
+        main
+        <nav>
+          nav
+          <ul>ul</ul>
+        </nav>
+      </main>
+    );
   }
 }
 
-export default App
+export default App;
